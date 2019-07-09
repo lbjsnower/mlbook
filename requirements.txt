@@ -9,3 +9,4 @@ scipy
 tensorflow
 numpy
 seaborn
+keras
