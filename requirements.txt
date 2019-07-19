@@ -7,3 +7,5 @@ matplotlib
 nbinteract
 scipy
 tensorflow
+numpy
+seaborn

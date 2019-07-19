@@ -23,7 +23,7 @@
 
 # Top-level page
 - title: 目录
-  url: /01-1
+  url: /目录
   not_numbered: true
 
 
@@ -45,7 +45,7 @@
 
 # A chapter w/ a collection of sections beneath it
 - title: 第一章 引言(Introduction) 
-#  url: /01/features
+  url: /01/01-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -63,7 +63,7 @@
     not_numbered: true
     
 - title: 第二章 单变量线性回归(Linear Regression with One Variable) 
-#  url: /02/features
+  url: /02/02-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -90,7 +90,7 @@
     not_numbered: true
 
 - title: 第三章 线性代数回顾(Linear Algebra Review) 
-#  url: /03/features
+  url: /03/03-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -114,7 +114,7 @@
     not_numbered: true
     
 - title: 第四章 多变量线性回归(Linear Regression with Multiple Variables)
-#  url: /04/features
+  url: /04/04-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -141,7 +141,7 @@
     not_numbered: true
     
 - title: 第五章 逻辑回归(Logistic Regression) 
-#  url: /05/features
+  url: /05/05-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -168,7 +168,7 @@
     not_numbered: true
     
 - title: 第六章 正则化(Regularization) 
-#  url: /06/features
+  url: /06/06-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -186,7 +186,7 @@
     not_numbered: true
 
 - title: 第七章 神经网络-表述(Neural Networks-Representation) 
-#  url: /07/features
+  url: /07/07-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -213,7 +213,7 @@
     not_numbered: true
     
 - title: 第八章 神经网络的学习(Neural Networks-Learning) 
-#  url: /08/features
+  url: /08/08-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -243,7 +243,7 @@
     not_numbered: true
     
 - title: 第九章 应用机器学习的建议(Advice for Applying Machine Learning) 
-#  url: /09/features
+  url: /09/09-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -271,7 +271,7 @@
 
   
 - title: 第十章 机器学习系统的设计(Machine Learning System Design) 
-#  url: /10/features
+  url: /10/10-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -292,7 +292,7 @@
     not_numbered: true
 
 - title: 第十一章 支持向量机(Support Vector Machines) 
-#  url: /11/features
+  url: /11/11-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -316,7 +316,7 @@
     not_numbered: true
 
 - title: 第十二章 聚类(Clustering) 
-#  url: /12/features
+  url: /12/12-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -338,7 +338,7 @@
 
     
 - title: 第十三章 降维(Dimensionality Reduction) 
-#  url: /13/features
+  url: /13/13-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -365,7 +365,7 @@
     not_numbered: true
     
 - title: 第十四章 异常检测(Anomaly Detection) 
-#  url: /14/features
+  url: /14/14-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -396,7 +396,7 @@
     
     
 - title: 第十五章 推荐系统(Recommender Systems) 
-#  url: /15/features
+  url: /15/15-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -420,7 +420,7 @@
     not_numbered: true
     
 - title: 第十六章 大规模机器学习(Large Scale Machine Learning) 
-#  url: /16/features
+  url: /16/16-1
   not_numbered: true
   expand_sections: true
   sections:
@@ -444,7 +444,7 @@
     not_numbered: true
     
 - title: 第十七章 应用实例-图片文字识别(Application Example-Photo OCR) 
-# url: /17/features
+  url: /17/17-1
   not_numbered: true
   expand_sections: true
   sections:
